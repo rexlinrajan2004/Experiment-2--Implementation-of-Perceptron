@@ -46,6 +46,10 @@ Print the accuracy
 ```
 ## PROGRAM:
 ```
+DEVELOPED BY:REXLIN.R
+REG NO:212222220034
+```
+```
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
